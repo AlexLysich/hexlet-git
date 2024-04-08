@@ -1,3 +1,1 @@
-Hello, Git!
-# hexlet-git
-# hexlet-git
+Hello, Hexlet! How are you?
